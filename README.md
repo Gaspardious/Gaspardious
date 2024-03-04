@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Javascript!
 - ⚡ Fun fact: Love 🍌 on 🍕...
 
-- - 📫 How to reach me: Dejan Gaspar on LinkedIn
+- 📫 How to reach me: Dejan Gaspar on LinkedIn
 
 <!--
 **Gaspardious/Gaspardious** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
