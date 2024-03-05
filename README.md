@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on a very cool portfolio site!
 - 🌱 I’m currently learning Javascript!
-- ⚡ Fun fact: Love 🍌 on 🍕...
+- ⚡ Fun fact: Love 🍌 and 🍍 on 🍕...
 
 - 📫 How to reach me: Dejan Gaspar on LinkedIn
 
