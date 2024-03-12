@@ -6,7 +6,7 @@
 
 - 📫 How to reach me: Dejan Gaspar on LinkedIn
 
-- TECK STACK: [![My Skills](https://skillicons.dev/icons?i=js,html,css,figma, github, )](https://skillicons.dev)
+- TECK STACK: [![My Skills](https://skillicons.dev/icons?i=js,html,css,figma, github)](https://skillicons.dev)
 
 <!--
 **Gaspardious/Gaspardious** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
