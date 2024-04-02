@@ -1,7 +1,7 @@
 ### Hi there buddy 👋
 
 - 🔭 I’m currently working on a very cool portfolio site!
-- 🌱 I’m currently learning Javascript!
+- 🌱 I’m currently learning React!
 - ⚡ Fun fact: Love 🍌 and 🍍 on 🍕...
 
 - 📫 How to reach me: Dejan Gaspar on LinkedIn
