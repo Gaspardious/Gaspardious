@@ -11,7 +11,7 @@
     ✈️ Traveling the globe, experiencing new cultures. Next destination: Colombia!
     📈 Stockpicking, navigating the exciting world of investments with an analytical eye.  
     🏋️‍♂️ Hitting the gym, where I push my limits physically as I do mentally in development.
-    🎣 Casting a line into the sea, especially during summer for mackerel. Fishing has become my latest passion, offering both tranquility and excitement.
+    🎣 Casting a line into the sea, especially during summer for mackerel.
 
 🔍 Looking Forward: Each day is an opportunity to learn something new, face a fresh challenge, and take another step toward mastering my craft. I'm on a continuous quest to innovate, improve, and inspire through my work in Frontend Development.
 
