@@ -3,7 +3,7 @@
 
 🌍 Living: Gothenburg, Sweden - a place as vibrant and dynamic as my coding projects.
 
-💻 Studying: I'm deeply immersed in the world of Frontend Development, constantly exploring new technologies and frameworks to bring my digital creations to life.
+💻 Studying: Frontend Development is where my heart lies. I'm always diving into new technologies and frameworks, eager to push the boundaries of what's possible on the web.
 
 🚀 Interests: When I'm not coding, you'll find me:
 
@@ -11,6 +11,7 @@
     ✈️ Traveling the globe, experiencing new cultures. Next destination: Colombia!
     📈 Stockpicking, navigating the exciting world of investments with an analytical eye.  
     🏋️‍♂️ Hitting the gym, where I push my limits physically as I do mentally in development.
+    🎣 Casting a line into the sea, especially during summer for mackerel. Fishing has become my latest passion, offering both tranquility and excitement.
 
 🔍 Looking Forward: Each day is an opportunity to learn something new, face a fresh challenge, and take another step toward mastering my craft. I'm on a continuous quest to innovate, improve, and inspire through my work in Frontend Development.
 
