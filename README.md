@@ -19,7 +19,7 @@ Feel free to browse through my repositories to see what I've been working on. Le
 
 - 📫 How to reach me: Dejan Gaspar on LinkedIn
 
-- 🧑🏻‍💻 TECH STACK: [![My Skills](https://skillicons.dev/icons?i=js,html,css,figma,github,sass,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,figma,github,sass,react)](https://skillicons.dev)
 
 <!--
 **Gaspardious/Gaspardious** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
