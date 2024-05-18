@@ -1,9 +1,5 @@
 
-👋 Hi there! I'm Dejan, a passionate Frontend Developer based in Gothenburg, Sweden. My journey in tech is fueled by my curiosity and the thrill of building seamless, user-friendly digital experiences. Here's a little more about me:
-
-🌍 Living: Gothenburg, Sweden - a place as vibrant and dynamic as my coding projects.
-
-💻 Studying: Frontend Development is where my heart lies. I'm always diving into new technologies and frameworks, eager to push the boundaries of what's possible on the web.
+👋 Hi there! I'm Dejan, a passionate Frontend Developer based in Gothenburg, Sweden. My journey in tech is fueled by my curiosity and the thrill of building seamless, user-friendly digital experiences. 
 
 Feel free to browse through my repositories to see what I've been working on. Let's connect if you share my interests or believe we can collaborate on future projects!
 
