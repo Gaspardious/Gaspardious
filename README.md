@@ -1,9 +1,5 @@
 
-👋 Hi there! I'm Dejan, a passionate Frontend Developer based in Gothenburg, Sweden. My journey in tech is fueled by my curiosity and the thrill of building seamless, user-friendly digital experiences. 
-
-Feel free to browse through my repositories to see what I've been working on. Let's connect if you share my interests or believe we can collaborate on future projects!
-
-- 📫 How to reach me: Dejan Gaspar on LinkedIn
+👋 Hi there! I'm Dejan, a passionate Frontend Developer based in Gothenburg, Sweden. 
 
   
 <!--
